@@ -1,4 +1,6 @@
 package assignment_vikas;
+//Write a Java program to concatenate a given string to the end of another string
+
 
 public class Assignment3 {
     public static void main(String[] args) {

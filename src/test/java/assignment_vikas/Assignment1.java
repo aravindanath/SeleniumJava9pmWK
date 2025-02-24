@@ -1,4 +1,6 @@
 package assignment_vikas;
+//Write a short program that prints each number from 1 to 100 on a new line.
+
 
 public class Assignment1 {
     public static void main(String[] args) {
