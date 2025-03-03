@@ -1,7 +1,19 @@
 oops
 
-inheritance
-polymorphism
-encapsulation
-abstraction
-Interface
+inheritance -- done
+polymorphism -- done
+encapsulation -- done
+abstraction -- done
+Interface -- done
+
+Exception Handling
+
+File reading and writing properties, xls (poi, Fillo)
+Collections
+Arrays
+List
+Set
+Map
+
+TestNG
+Selenium
