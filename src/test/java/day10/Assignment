@@ -1,0 +1,10 @@
+
+String name ="Arv12ind123"
+// print only the numbers from name
+// and get the sum of the numbers 1+2+1+2+3 = 9
+
+clue:
+1. loop through each character and check if it is a number
+conver to char array
+2. check if each char is a number using charcter class
+3. if it is a number, convert to int and add to sum
