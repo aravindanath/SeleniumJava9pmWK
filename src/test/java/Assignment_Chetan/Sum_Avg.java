@@ -5,7 +5,7 @@ public class Sum_Avg {
 
     public static void main(String[] args) {
 
-        int n=0, sum=0;
+        int n, sum=0;
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the number of elements: ");
